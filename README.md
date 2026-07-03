@@ -33,11 +33,15 @@ The project includes:
 
 ## Business Insights
 
-1. Write your first business insight.
-2. Write your second business insight.
-3. Write your third business insight.
-4. Write your fourth business insight.
-5. Write your fifth business insight.
+1.The total revenue generated from all orders is approximately $16 million. This shows the company has achieved strong overall sales performance.
+
+2.The Bed Bath Table product category generated the highest revenue, making it the best-selling category.
+
+3.Monthly sales increased during some months and decreased during others, showing seasonal trends in customer purchases.
+
+4.The average review score is around 4 out of 5, which indicates that most customers are satisfied with their shopping experience.
+
+5.São Paulo generated the highest revenue among all states, making it the company's strongest market.
 
 ## Project Structure
 
